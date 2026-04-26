@@ -8,8 +8,8 @@ Original file is located at
 """
 
 #Write a basic python code to create a calculator which will perform addition , subtraction,multiplication and division
-num1=int(input("Enter the first number"))
-num2=int(input("Enter the second number"))
+num1=int(input("Enter the first number: "))
+num2=int(input("Enter the second number: "))
 sum=num1+num2
 diff=num1-num2
 multi=num1*num2
